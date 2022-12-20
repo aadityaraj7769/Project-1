@@ -1,0 +1,25 @@
+-> Features given in datasets
+
+=)) PassengerId -->> Id given to each passenger 
+
+=)) Survived    -->> Whether a given person is Survived or not -> If it is "0" means person is not survived and if it is "1" means person is survived
+
+=)) Pclass      -->> Ticket Class -> if it is "1" means "1st (or Upper)" class and "2" means "2nd (or Middle)" class and "3" means "3rd (or Lower)" class
+
+=)) Name        -->> Name of the passenger
+
+=)) Sex         -->> Whether a person is male or female
+
+=)) Age         -->> Age of the each passenger (in years)
+
+=)) SibSp       -->> Number of Sibling / Spouse boarding in the titanic
+
+=)) Parch       -->> Number of Parent / Child boarding in the titanic
+
+=)) Ticket      -->> Ticket number for each passenger
+
+=)) Fare        -->> Fare of each passenger
+
+=)) Cabin       -->> Cabin number
+
+=)) Embarked    -->> Port of embarkation (C -> Cherbourg, Q -> Queenstown, S -> Southampton)
